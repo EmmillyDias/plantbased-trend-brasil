@@ -32,7 +32,7 @@ To perform a predictive and seasonal analysis of Brazilian consumer interest in 
 
 ## 📈 Seasonal Analysis Chart
 
-![Seasonal Trend Chart](grafico_sazonalidade.png)
+![seasonality chart](grafico_sazonalidade.png)
 
 ---
 
